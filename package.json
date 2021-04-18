@@ -1,0 +1,9 @@
+{
+	"name": "@jessevanassen/npm-update",
+	"version": "0.1.0",
+	"description": "Prints the `npm install` command which can be used to replicate the old behavior of `npm update`.",
+	"author": {
+		"name": "Jesse van Assen"
+	},
+	"bin": "./cli.js"
+}
